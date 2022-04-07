@@ -63,7 +63,11 @@ The porject also implements `Trudy` who is going to intercept the chat messages 
 
 All the files mentioned in the above tree should be uploaded to the VM before the chat can be started.
 
-Refer Appendix to generate the certificates.
+<br>
+
+> _Refer Appendix to generate the certificates for each endhosts._
+
+<br>
 
 ### 1. Loading the files into the Virtual Machine (VM)</summary>
 
